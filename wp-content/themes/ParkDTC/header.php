@@ -49,7 +49,7 @@
                         </a>
                     </li>
                     <li class="nav_item">
-                        <a href="/store">
+                        <a href="/shop">
                             Store
                         </a>
                     </li>
