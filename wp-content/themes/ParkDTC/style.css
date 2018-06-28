@@ -39,9 +39,6 @@ body {
 	position: relative;
 }
 
-main{
-	margin: 0 0 10% 0;
-}
 
 /* clear */
 .clear:before,
@@ -83,17 +80,17 @@ li, ul{
 	list-style: none;
 }
 
-.single header .logo .overlay, .page header .logo .overlay {
+.single header .logo .overlay, .page header .logo .overlay, .category header .logo .overlay {
 	display: none;
 }
 
-.single header .logo, .page header .logo{
+.single header .logo, .page header .logo, .category header .logo{
 	width: 100%;
 	height: 10vh;
 	text-align: center;
 }
 
-.single header .logo .logo-img, .page header .logo .logo-img {
+.single header .logo .logo-img, .page header .logo .logo-img, .category header .logo .logo-img {
 	position: relative;
 	margin: 0 auto;
 	max-width: 100px;
@@ -114,6 +111,36 @@ li, ul{
 /* header */
 .header {
 	text-align: center;
+}
+
+.socials{
+	float: right;
+}
+
+.socials ul{
+	list-style: none;
+}
+
+.socials ul li{
+	display: inline-block;
+	width: 50px;
+	font-size: 20px;
+}
+
+.socials ul li svg{
+	transition: all ease 0.3s;
+}
+
+.socials ul li.twitter:hover svg {
+	color: #1DA1F2
+}
+
+.socials ul li.gmail:hover svg {
+	color: #dd4b39
+}
+
+.socials ul li.soundcloud:hover svg {
+	color: #FF5500
 }
 /* logo */
 .logo{
@@ -170,11 +197,14 @@ li, ul{
 /* footer */
 .footer {
 	text-align: center;
+	width: 100%;
+	font-size: .8em;
+}
+
+.home .footer{
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	width: 100%;
-	font-size: .8em;
 }
 
 .credit {
@@ -240,6 +270,10 @@ li, ul{
 	font-weight: 600;
 }
 
+.woocommerce .woocommerce-result-count{
+	display: none;
+}
+
 .woocommerce .woocommerce .single-product .quantity .qty{
 	width: unset;
 	padding: 10px;
@@ -301,7 +335,10 @@ input[type="text"], input[type="tel"], input[type="email"], textarea{
     PAGES
 \*------------------------------------*/
 
-
+.post{
+	margin: 10% auto;
+	width: 60%;
+}
 
 /*------------------------------------*\
     IMAGES
@@ -324,22 +361,24 @@ input[type="text"], input[type="tel"], input[type="email"], textarea{
     RESPONSIVE
 \*------------------------------------*/
 
-@media only screen and (min-width:320px) {
+@media only screen and (max-width:320px) {
 
 }
-@media only screen and (min-width:480px) {
+@media only screen and (max-width:480px) {
+	.post{
+		width: 80%;
+	}
+}
+@media only screen and (max-width:768px) {
 
 }
-@media only screen and (min-width:768px) {
+@media only screen and (max-width:1024px) {
 
 }
-@media only screen and (min-width:1024px) {
+@media only screen and (max-width:1140px) {
 
 }
-@media only screen and (min-width:1140px) {
-
-}
-@media only screen and (min-width:1280px) {
+@media only screen and (max-width:1280px) {
 
 }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5),
