@@ -60,17 +60,17 @@
                 <div class="socials">
                     <ul>
                         <li class="twitter">
-                            <a href="https://twitter.com/parkdtc">
+                            <a target="_blank" rel="noreferrer" href="https://twitter.com/parkdtc">
                                 <i class="fab fa-twitter"></i>
                             </a>
                         </li>
                         <li class="gmail">
-                            <a href="mailto:park@parkdtc.com">
+                            <a target="_blank" rel="noreferrer" href="mailto:park@parkdtc.com">
                                 <i class="far fa-envelope"></i>
                             </a>
                         </li>
                         <li class="soundcloud">
-                            <a href="https://soundcloud.com/parkdtc">
+                            <a target="_blank" rel="noreferrer" href="https://soundcloud.com/parkdtc">
                                 <i class="fab fa-soundcloud"></i>
                             </a>
                         </li>

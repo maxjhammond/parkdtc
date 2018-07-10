@@ -115,10 +115,23 @@ li, ul{
 
 .socials{
 	float: right;
+	margin-right: 10%;
+}
+
+@media (max-width: 640px) {
+	.socials{
+		width: 100%;
+		text-align: center;
+		margin: 0;
+		float: none;
+	}
 }
 
 .socials ul{
 	list-style: none;
+	z-index: 999999;
+	position: relative;
+	padding: 0;
 }
 
 .socials ul li{
@@ -166,12 +179,34 @@ li, ul{
 	opacity: 1;
 }
 .logo-img {
-	max-width: 200px;
 	z-index: 999;
 	position: absolute;
-	left: 41%;
-	top: 41%;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
 }
+
+.home .logo-img{
+	padding: 15%;
+}
+
+.home .logo-img img{
+	max-width: 200px;
+}
+
+@media (max-width: 640px) {
+	.home .logo .overlay{
+		opacity: 1;
+	}
+	.home .logo .logo-img{
+		padding: 20%;
+	}
+	.home .logo .logo-img img{
+		max-width: 100%;
+	}
+}
+
 /* nav */
 .nav {
 	text-align: center;
@@ -489,6 +524,13 @@ a img.aligncenter {
 	width: 25%;
 	text-align: center;
 	padding: 50px;
+}
+
+@media (max-width: 640px){
+	.post_item{
+		display: block;
+		width: 100%;
+	}
 }
 
 /*------------------------------------*\
