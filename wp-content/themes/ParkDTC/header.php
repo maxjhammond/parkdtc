@@ -35,11 +35,6 @@
                 <!-- nav -->
                 <nav class="nav" role="navigation">
                     <li class="nav_item">
-                        <a href="/">
-                            Home
-                        </a>
-                    </li>
-                    <li class="nav_item">
                         <a href="/contact">
                             Contact
                         </a>
@@ -50,8 +45,13 @@
                         </a>
                     </li>
                     <li class="nav_item">
-                        <a href="/shop">
+                        <a href="/store">
                             Store
+                        </a>
+                    </li>
+                    <li class="nav_item">
+                        <a href="/cart">
+                            Cart
                         </a>
                     </li>
                 </nav>
@@ -81,9 +81,9 @@
 					<div class="logo">
                         <div class="overlay"></div>
                             <!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-                        <div class="logo-img">
+                        <a href="/" class="logo-img">
                             <img src="<?php echo get_template_directory_uri(); ?>/img/logo_white.png" alt="Logo">
-                        </div>
+                        </a>
 					</div>
 					<!-- /logo -->
 

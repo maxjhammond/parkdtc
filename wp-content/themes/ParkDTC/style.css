@@ -3,7 +3,7 @@
 	Theme URI: http://maxjhammond.github.io
 	Description: Custom Theme by Max H Wev
 	Version: 1
-	Author: Masx Hammond (@maxhweb)
+	Author: Max Hammond (@maxhweb)
 	Author URI: http://maxjhammond.github.io
 	Tags: Blank, HTML5, CSS3
 
@@ -54,7 +54,7 @@ body {
     *zoom:1;
 }
 img {
-	max-width:100%;
+	width:100%;
 	vertical-align:bottom;
 	border: none;
 	outline: none;
@@ -187,6 +187,7 @@ li, ul{
 	left: 0;
 	width: 100%;
 	text-align: center;
+	display: block;
 }
 
 .home .logo-img{
@@ -218,7 +219,7 @@ li, ul{
 	justify-content: space-around;
 	margin: 50px 0;
 }
-.nav .nav_item{
+.nav .nav_item {
 	display: inline-block;
 	text-transform: uppercase;
 }

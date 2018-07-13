@@ -15,6 +15,8 @@
 			</h1>
 			<!-- /post title -->
 
+            <?php the_content(); // Dynamic Content ?>
+
             <!-- post thumbnail -->
             <?php if ( has_post_thumbnail()) : // Check if Thumbnail exists ?>
                 <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
@@ -22,8 +24,6 @@
                 </a>
             <?php endif; ?>
             <!-- /post thumbnail -->
-
-			<?php the_content(); // Dynamic Content ?>
 
 		</article>
 		<!-- /article -->
