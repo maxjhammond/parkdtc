@@ -38,21 +38,25 @@
                         <a href="/contact">
                             Contact
                         </a>
+                        <div class="overlay"></div>
                     </li>
                     <li class="nav_item">
                         <a href="/category/music">
                             Music
                         </a>
+                        <div class="overlay"></div>
                     </li>
                     <li class="nav_item">
                         <a href="/store">
                             Store
                         </a>
+                        <div class="overlay"></div>
                     </li>
                     <li class="nav_item">
                         <a href="/cart">
                             Cart
                         </a>
+                        <div class="overlay"></div>
                     </li>
                 </nav>
                 <!-- /nav -->

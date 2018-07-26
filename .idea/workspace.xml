@@ -4,8 +4,6 @@
     <list default="true" id="e5576ef4-8239-4a98-965f-dcea95cfa998" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ParkDTC/loop.php" afterPath="$PROJECT_DIR$/wp-content/themes/ParkDTC/loop.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ParkDTC/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/ParkDTC/single.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ParkDTC/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/ParkDTC/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,18 +26,18 @@
           <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/footer.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
+                <state relative-caret-position="221">
                   <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="227">
-                  <caret line="71" column="45" lean-forward="false" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+                <state relative-caret-position="533">
+                  <caret line="58" column="51" lean-forward="false" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
                   <folding />
                 </state>
               </provider>
@@ -58,18 +56,18 @@
           <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/single.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                <state relative-caret-position="442">
+                  <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="loop.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="loop.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/loop.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+                <state relative-caret-position="170">
+                  <caret line="9" column="112" lean-forward="true" selection-start-line="9" selection-start-column="112" selection-end-line="9" selection-end-column="112" />
                   <folding />
                 </state>
               </provider>
@@ -82,8 +80,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="455">
-                  <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+                <state relative-caret-position="574">
+                  <caret line="250" column="34" lean-forward="false" selection-start-line="250" selection-start-column="34" selection-end-line="250" selection-end-column="34" />
                   <folding />
                 </state>
               </provider>
@@ -125,8 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Twenty Se</find>
-      <find>rel=&quot;profile&quot;</find>
       <find>class=&quot;nav&quot;</find>
       <find>Sample Page</find>
       <find>page_item</find>
@@ -155,6 +151,8 @@
       <find>logo-img</find>
       <find>logo-</find>
       <find>img</find>
+      <find>nav_</find>
+      <find>overla</find>
     </findStrings>
     <replaceStrings>
       <replace>park2018</replace>
@@ -186,10 +184,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/html5blank-stable/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ParkDTC/single.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ParkDTC/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/ParkDTC/loop.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ParkDTC/style.css" />
       </list>
     </option>
   </component>
@@ -208,8 +206,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3841" />
-    <option name="y" value="-1214" />
+    <option name="x" value="-1" />
+    <option name="y" value="-14" />
     <option name="width" value="1922" />
     <option name="height" value="1051" />
   </component>
@@ -231,6 +229,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,8 +266,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,18 +317,19 @@
       <workItem from="1530203272200" duration="1911000" />
       <workItem from="1531239950973" duration="2735000" />
       <workItem from="1531409448447" duration="3504000" />
-      <workItem from="1531496571792" duration="2625000" />
+      <workItem from="1531496571792" duration="4569000" />
+      <workItem from="1532622786548" duration="460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29230000" />
+    <option name="totallyTimeSpent" value="31634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3841" y="-1214" width="1922" height="1051" extended-state="6" />
+    <frame x="-1" y="-14" width="1922" height="1051" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15010683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15170941" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -516,7 +515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -584,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,38 +590,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="71" column="45" lean-forward="false" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/loop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        <state relative-caret-position="170">
+          <caret line="9" column="112" lean-forward="true" selection-start-line="9" selection-start-column="112" selection-end-line="9" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="58" column="51" lean-forward="false" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ParkDTC/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        <state relative-caret-position="574">
+          <caret line="250" column="34" lean-forward="false" selection-start-line="250" selection-start-column="34" selection-end-line="250" selection-end-column="34" />
           <folding />
         </state>
       </provider>
